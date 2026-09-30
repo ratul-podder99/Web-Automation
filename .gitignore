@@ -1,0 +1,20 @@
+# Environment / secrets
+.env
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+venv/
+.venv/
+*.egg-info/
+
+# Test artifacts
+screenshots/
+reports/
+*.log
+
+# OS / IDE
+.DS_Store
+.vscode/
+.idea/
